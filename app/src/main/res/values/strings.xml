@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ExperimentalUserInput</string>
+    <string name="showToastButton">Show</string>
+    <string name="Message">Enter a phone number</string>
+    <string name="initialText">Nothing Entered</string>
+    <string name="initialTitle">Phone Number: </string>
+
+    <string-array name="labels_array">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Mobile</item>
+        <item>Other</item>
+    </string-array>
+
+</resources>
